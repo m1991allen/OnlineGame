@@ -17,7 +17,7 @@ namespace OnlineGame.Web.Controllers
         public ActionResult Index()
         {
             return View();
-            //commit GaminController.cs
+            //1 commit GaminController.cs
         }
 
         [HttpGet]
